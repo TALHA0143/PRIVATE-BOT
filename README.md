@@ -2,7 +2,7 @@
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> -𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗧𝗔𝗟𝗛𝗔-🤍-   𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I Am BAYJID %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/𝗜 𝗔𝗠 𝗧𝗔𝗟𝗛𝗔 %20 𝗣𝗔𝗧𝗛𝗔𝗡 𝗡𝗢𝗢𝗕 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥-Green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
